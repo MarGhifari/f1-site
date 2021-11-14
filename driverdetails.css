@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+@font-face{
+    font-family: f1-bold;
+    src: url(assets/font/Formula1-Bold.otf);
+}
+
+@font-face{
+    font-family: f1-regular;
+    src: url(assets/font/Formula1-Regular.otf);
+}
+
+@font-face{
+    font-family: f1-wide;
+    src: url(assets/font/Formula1-Wide.otf);
+}
+
+@font-face{
+    font-family: f1-black;
+    src: url(assets/font/Formula1-Black.ttf);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*--------- SCROLL BAR CUSTOM ------ */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+/*---- Navbar -----*/
+header{
+    border-bottom: 5px solid #e10600;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.web-logo img{
+    width: 120px;
+    margin: 0 20px;
+}
+
+nav ul{
+    margin-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 25px;
+    margin: 0 5px;
+    font-family: 'f1-regular';
+}
+
+nav ul li a:hover{
+    color: #e10600;
+}
+
+/* main */
+main{
+    padding: 3%;
+    background: #f7f4f1;
+}
+
+/* Section 1 */
+.content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    background-color: #fff;
+}
+Z
+.driver-pic img{
+    object-fit: cover;
+    width: 715px;
+    height: 450px;
+    
+    object-position: 0 10%;
+}
+
+.number{
+    display: grid;
+    grid-template-columns: 70px 10px;
+    padding-left: 40px;
+    height: 80px;
+}
+
+.number h1{
+    position: relative;
+    top: -20px;
+
+    font-family: 'f1-regular';
+    font-size: 42px;
+    color: grey;
+}
+
+.number img{
+    position: relative;
+    top: 20px;
+    width: 55px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.driver-name{
+    position: relative;
+    padding-left: 40px;
+    top: -30px;
+
+    font-family: 'f1-bold';
+    font-size: 32px;
+}
+
+.driver-details{
+    padding: 5%;
+}
+
+.driver-details img{
+    width: 200px;
+}
+
+.driver-data{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.data{
+    font-family: 'f1-bold';
+    font-size: 15px;
+}
+
+.answer{
+    font-family: 'Titillium Web';
+    font-size: 13px;
+}
+
+/* Section 2 */
+.bio{
+    position: relative;
+    background: #fff;
+    padding: 10px 40px;
+    top: -50px;
+}
+
+
+.title h1{
+    font-family: 'f1-regular';
+    font-size: 42px;
+}
+
+.bio-text{
+    font-family: 'Titillium Web';
+    font-size: 18px;
+    line-height: 30px;
+    
+}

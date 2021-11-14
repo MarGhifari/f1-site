@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<rdf:RDF 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:foaf="http://xmlns.com/foaf/0.1/"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:dbo="http://dbpedia.org/ontology/"
+			xmlns:dbr="http://dbpedia.org/resource/">
+
+	<rdf:Description rdf:about="https://www.formula1.com/en/drivers/lewis-hamilton.html">
+        <foaf:firstName>Lewis</foaf:firstName>
+        <foaf:lastName>Hamilton</foaf:lastName>
+        <dc:color>#00d2be</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/image.img.1024.medium.jpg/1602844295176.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LEWHAM01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>44</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/helmet.img.png/1602159194167.png</foaf:logo>
+        <dc:memberOf>Mercedes</dc:memberOf>
+        <dbo:nationality>United Kingdom</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/lewis-hamilton/_jcr_content/countryFlag.img.jpg/1536080051510.jpg</dbr:flag>
+        <dbo:podium>165</dbo:podium>
+        <dbo:matchPoint>347</dbo:matchPoint>
+        <dbo:fullScore>3778</dbo:fullScore>
+        <dbo:birthDate>07/01/1985</dbo:birthDate>
+        <dbo:birthPlace>Stevenage, England</dbo:birthPlace>
+        <dc:description>‘Still I Rise’ – these are the words emblazoned across the back of Lewis Hamilton’s helmet and tattooed across his shoulders, and ever since annihilating expectations with one of the greatest rookie performances in F1 history in 2007, that’s literally all he’s done: risen to the top of the all-time pole positions list ahead of his hero Ayrton Senna, surged into second place in the wins column behind only the inimitable Michael Schumacher, and surpassed the legendary Sir Jackie Stewart for the most championship titles by a British driver.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/valtteri-bottas.html">
+        <foaf:firstName>Valtteri</foaf:firstName>
+        <foaf:lastName>Bottas</foaf:lastName>
+        <dc:color>#00d2be</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/image.img.1024.medium.jpg/1602844369828.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/VALBOT01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>77</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/helmet.img.png/1583764320953.png</foaf:logo>
+        <dc:memberOf>Mercedes</dc:memberOf>
+        <dbo:nationality>Finland</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/valtteri-bottas/_jcr_content/countryFlag.img.jpg/1423762801690.jpg</dbr:flag>
+        <dbo:podium>56</dbo:podium>
+        <dbo:matchPoint>223</dbo:matchPoint>
+        <dbo:fullScore>1512</dbo:fullScore>
+        <dbo:birthDate>28/08/1989</dbo:birthDate>
+        <dbo:birthPlace>Nastola, Finland</dbo:birthPlace>
+        <dc:description>Making his F1 debut with Williams in 2013, Bottas soon became part of the family. Points and podiums followed with the reliable racer even amassing the most points without a win, a record he resented but that showcased his ability. The fact the Finn was such a points machine saw him suddenly promoted to the most coveted seat in F1 - Nico Rosberg’s vacant championship-winning seat at Mercedes. Bottas blossomed at the Silver Arrows in 2017, unleashing his pace to clock up personal pole positions and victories as well as a team championship for the famous Mercedes marque alongside Lewis Hamilton. He even tied with Hamilton and Sebastian Vettel with 13 podiums.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/max-verstappen.html">
+        <foaf:firstName>Max</foaf:firstName>
+        <foaf:lastName>Verstappen</foaf:lastName>
+        <dc:color>#0600ef</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/image.img.1024.medium.jpg/1584012927837.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/MAXVER01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>33</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/helmet.img.png/1582895978500.png</foaf:logo>
+        <dc:memberOf>Red Bull Racing</dc:memberOf>
+        <dbo:nationality>Netherlands</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/max-verstappen/_jcr_content/countryFlag.img.jpg/1423744085850.jpg</dbr:flag>
+        <dbo:podium>42</dbo:podium>
+        <dbo:matchPoint>214</dbo:matchPoint>
+        <dbo:fullScore>1162</dbo:fullScore>
+        <dbo:birthDate>30/09/1997</dbo:birthDate>
+        <dbo:birthPlace>Hasselt, Belgium</dbo:birthPlace>
+        <dc:description>F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. A true wheel-to-wheel racer, another stunning drive in Brazil from the back of the pack to the podium on a treacherous wet track kept the plaudits coming. Verstappen’s no-holds-barred attitude and hard defending have sometimes landed him in hot water with his peers and paymasters. But the mistakes that initially marred his potential have given way to maturity, while the bravado and energy that make him a blockbuster talent have remained – and the victories have kept on coming.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/sergio-perez.html">
+        <foaf:firstName>Sergio</foaf:firstName>
+        <foaf:lastName>Perez</foaf:lastName>
+        <dc:color>#f596c8</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/image.img.1024.medium.jpg/1600942584166.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/SERPER01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>11</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/helmet.img.png/1582895981471.png</foaf:logo>
+        <dc:memberOf>Racing Point</dc:memberOf>
+        <dbo:nationality>Mexico</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/sergio-perez/_jcr_content/countryFlag.img.jpg/1423762801900.jpg</dbr:flag>
+        <dbo:podium>10</dbo:podium>
+        <dbo:matchPoint>125</dbo:matchPoint>
+        <dbo:fullScore>706</dbo:fullScore>
+        <dbo:birthDate>26/01/1990</dbo:birthDate>
+        <dbo:birthPlace>Guadalajara, Mexico</dbo:birthPlace>
+        <dc:description>Perez’s reputation in F1 has been built on opposite approaches to Grand Prix racing. On the one hand, he is a punchy combatant who wrestles his way through the pack and into the points. Never afraid to add a bit of spice to his on-track encounters, even his team mates don’t always escape the Mexican’s heat. A proud countryman, the Guadalajara gunslinger has amassed more points than any other Mexican in the history of F1. But Perez is yet to match his hero Pedro Rodriguez and take the chequered flag in first. After a spell with McLaren and links to Ferrari, Perez’s hopes of driving for a winning team currently rest with Racing Point.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/daniel-ricciardo.html">
+        <foaf:firstName>Daniel</foaf:firstName>
+        <foaf:lastName>Ricciardo</foaf:lastName>
+        <dc:color>#fff500</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/image.img.1024.medium.jpg/1590499440912.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/DANRIC01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>3</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/helmet.img.png/1602159195491.png</foaf:logo>
+        <dc:memberOf>Renault</dc:memberOf>
+        <dbo:nationality>Australia</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/daniel-ricciardo/_jcr_content/countryFlag.img.jpg/1422627081354.jpg</dbr:flag>
+        <dbo:podium>31</dbo:podium>
+        <dbo:matchPoint>119</dbo:matchPoint>
+        <dbo:fullScore>1159</dbo:fullScore>
+        <dbo:birthDate>01/07/1989</dbo:birthDate>
+        <dbo:birthPlace>Perth, Australia</dbo:birthPlace>
+        <dc:description>The Australian combines all-out speed with impressive race craft. Never afraid to push to the limits if it means pulling off a pass, Ricciardo is a proven race-winner for Red Bull, capable of consistently finishing at the business end of the championship table. His latest chapter with Renault’s works team has brought fresh challenges for the Perth pilot as he chases his dream of following Jack Brabham and Alan Jones as the next world champion from Down Under. And in 2020 he faces a highly-rated new team mate in the form of Esteban Ocon. But whatever happens, Ricciardo is sure to keep on smiling.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/carlos-sainz.html">
+        <foaf:firstName>Carlos</foaf:firstName>
+        <foaf:lastName>Sainz</foaf:lastName>
+        <dc:color>#ff8700</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/image.img.1024.medium.jpg/1598520420119.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/CARSAI01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>55</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/helmet.img.png/1584006838795.png</foaf:logo>
+        <dc:memberOf>McLaren</dc:memberOf>
+        <dbo:nationality>Spain</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/carlos-sainz/_jcr_content/countryFlag.img.jpg/1422627086043.jpg</dbr:flag>
+        <dbo:podium>2</dbo:podium>
+        <dbo:matchPoint>105</dbo:matchPoint>
+        <dbo:fullScore>372</dbo:fullScore>
+        <dbo:birthDate>01/09/1994</dbo:birthDate>
+        <dbo:birthPlace>Madrid, Spain</dbo:birthPlace>
+        <dc:description>Entering F1’s Bull Ring paired alongside Max Verstappen at Toro Rosso in 2015, Sainz quickly showed his fighting spirit. A tenacious racer, Sainz puts the car on the edge as he hustles his way through the pack. No wonder he’s earned the nickname Chilli. But the Spaniard is intelligent as well as instinctive, thinking his way through a race and into the points. This calm temperament follows him off track where he remains unfazed by the pressures of forging a Grand Prix career with a famous name. Sainz is the son of double World Rally champion, also his namesake, and has brought some of Dad’s driving skills to the F1 circuit – junior loves a delicious dose of drift for one.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/alexander-albon.html">
+        <foaf:firstName>Alexander</foaf:firstName>
+        <foaf:lastName>Albon</foaf:lastName>
+        <dc:color>#0600ef</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/image.img.1024.medium.jpg/1602843312296.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ALEALB01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>23</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/helmet.img.png/1582895979469.png</foaf:logo>
+        <dc:memberOf>Red Bull Racing</dc:memberOf>
+        <dbo:nationality>Thailand</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/alexander-albon/_jcr_content/countryFlag.img.jpg/1544692495802.jpg</dbr:flag>
+        <dbo:podium>2</dbo:podium>
+        <dbo:matchPoint>105</dbo:matchPoint>
+        <dbo:fullScore>197</dbo:fullScore>
+        <dbo:birthDate>23/03/1996</dbo:birthDate>
+        <dbo:birthPlace>London, England</dbo:birthPlace>
+        <dc:description>Idolising Michael Schumacher and dreaming of one day racing in Formula 1, Albon got his wish with another team from Italy. After a patient wait for his big break, Albon did his talking on track with Toro Rosso in 2019's opening races, earning a mid-season promotion to Red Bull Racing. Pipped to the 2016 GP3 title by a certain Charles Leclerc, Albon then left his great friendship with George Russell trackside as he also took the 2018 Formula 2 title fight down to the wire, before graduating into the Formula 1 big league along with yet another F1 contemporary, Lando Norris. A stylish over-taker with a championship mentality, Albon was unfazed by partnering the mighty Max Verstappen for the second half of his rookie season, taking top-six finishes in eight of his nine 2019 races with Red Bull. No wonder they kept him on for 2020!</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/charles-leclerc.html">
+        <foaf:firstName>Charles</foaf:firstName>
+        <foaf:lastName>Leclerc</foaf:lastName>
+        <dc:color>#dc0000</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/image.img.1024.medium.jpg/1602843517642.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/CHALEC01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>16</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/helmet.img.png/1582895980064.png</foaf:logo>
+        <dc:memberOf>Ferrari</dc:memberOf>
+        <dbo:nationality>Monaco</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/countryFlag.img.jpg/1422627085995.jpg</dbr:flag>
+        <dbo:podium>12</dbo:podium>
+        <dbo:matchPoint>98</dbo:matchPoint>
+        <dbo:fullScore>401</dbo:fullScore>
+        <dbo:birthDate>16/10/1997</dbo:birthDate>
+        <dbo:birthPlace>Monte Carlo, Monaco</dbo:birthPlace>
+        <dc:description>Born in the Mediterranean idyll of Monaco, Leclerc arrived in F1 on a tidal wave of expectation. Practically peerless on his way to the GP3 and Formula 2 crowns, he showcased a dazzling array of skills from scorching pole positions, commanding victories – even when his car caught fire twice at Silverstone – to an ability to muscle his way through the pack. Winning back-to-back championships also taught Leclerc how to handle pressure, another useful tool in the big pond of Formula 1 racing. Stepping up to F1 in 2018, Leclerc showed flashes of ballistic pace on Saturdays and racing brilliance on Sundays, dragging his Sauber beyond its limits – and earning himself a money-can’t-buy race seat at Ferrari for 2019, stepping into the shoes of the Scuderia’s last world champion, Kimi Raikkonen.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/lando-norris.html">
+        <foaf:firstName>Lando</foaf:firstName>
+        <foaf:lastName>Norris</foaf:lastName>
+        <dc:color>#ff8700</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/image.img.1024.medium.jpg/1602843378861.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LANNOR01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>4</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/helmet.img.png/1584006838526.png</foaf:logo>
+        <dc:memberOf>McLaren</dc:memberOf>
+        <dbo:nationality>United Kingdom</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/lando-norris/_jcr_content/countryFlag.img.jpg/1422627084440.jpg</dbr:flag>
+        <dbo:podium>1</dbo:podium>
+        <dbo:matchPoint>97</dbo:matchPoint>
+        <dbo:fullScore>146</dbo:fullScore>
+        <dbo:birthDate>13/11/1999</dbo:birthDate>
+        <dbo:birthPlace>Bristol, England</dbo:birthPlace>
+        <dc:description>McLaren had the British teenager on their books for two years before fast-tracking him into F1’s galaxy of stars in 2019. A firecracker in his junior career, with a penchant for pole positions and wheel-to-wheel tussles, Norris didn’t let them down. Paired with the highly-rated – and far more experienced – Carlos Sainz, his rookie season was impressive, edging the Spaniard in their head-to-head qualifying battle, scoring points on 11 occasions, and only narrowly missing out on a top-10 championship placing. An exciting talent on track, away from it Norris brims with a modest charm and an artistic side sees him design and paint his own race gear as a hobby. The focus for the future is allying artistry and ambition on track as McLaren rely on the promise of youth to take them back to the top.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/pierre-gasly.html">
+        <foaf:firstName>Pierre</foaf:firstName>
+        <foaf:lastName>Gasly</foaf:lastName>
+        <dc:color>#fff</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/image.img.1024.medium.jpg/1602267173252.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/PIEGAS01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>10</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/helmet.img.png/1583408705109.png</foaf:logo>
+        <dc:memberOf>AlphaTauri</dc:memberOf>
+        <dbo:nationality>France</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/pierre-gasly/_jcr_content/countryFlag.img.jpg/1423762801429.jpg</dbr:flag>
+        <dbo:podium>2</dbo:podium>
+        <dbo:matchPoint>75</dbo:matchPoint>
+        <dbo:fullScore>199</dbo:fullScore>
+        <dbo:birthDate>07/02/1996</dbo:birthDate>
+        <dbo:birthPlace>Rouen, France</dbo:birthPlace>
+        <dc:description>The flying Frenchman was called up to make his 2017 debut in Malaysia in place of Daniil Kvyat and, after proving his mettle, he was named a Toro Rosso driver the following year.  A further 21 races into his fledgling career, Gasly was moved up again – this time to replace Red Bull big gun Daniel Ricciardo. Gasly seemed to have a knack of being in the right place at the right time – a quality that’s equally handy on track. A series of impressive 2018 performances for Toro Rosso – including a brilliant fourth place in Bahrain – showed exciting promise for what he might do with the ‘A’ team in 2019. Unfortunately that promise only appeared in flashes – and he quickly suffered from unfavourable comparisons with superstar team mate Max Verstappen. So much so that after the summer break, he was sent back to Toro Rosso, with another young up-and-comer – Alex Albon – being given a shot in the ‘senior’ Red Bull seat.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/lance-stroll.html">
+        <foaf:firstName>Lance</foaf:firstName>
+        <foaf:lastName>Stroll</foaf:lastName>
+        <dc:color>#f596c8</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/image.img.1024.medium.jpg/1602843839547.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/LANSTR01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>18</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/helmet.img.png/1582895977741.png</foaf:logo>
+        <dc:memberOf>Racing Point</dc:memberOf>
+        <dbo:nationality>Canada</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/lance-stroll/_jcr_content/countryFlag.img.jpg/1422627083354.jpg</dbr:flag>
+        <dbo:podium>3</dbo:podium>
+        <dbo:matchPoint>75</dbo:matchPoint>
+        <dbo:fullScore>142</dbo:fullScore>
+        <dbo:birthDate>29/10/1998</dbo:birthDate>
+        <dbo:birthPlace>Montreal, Canada</dbo:birthPlace>
+        <dc:description>Stroll meant business in his debut 2017 season, setting records on the way. An opportunistic racer he bounded onto the podium in Baku, the youngest rookie to do so. As the son of a wealthy entrepreneur, Stroll is used to a champagne lifestyle but now he knows the fizz tastes all the sweeter on the rostrum. Then in Monza he mastered the downpours to become the youngest driver in history to line up on the front row. A single-minded starter, the Canadian loves to make up places on the opening lap and fight through to the points. Stroll has the potential to be a long-term fixture in Formula 1. His father Lawrence led the consortium that took over Force India midway through the 2018 season. The future looks bright for both the Racing Point team and their young driver – and even if it rains then Stroll can keep on motoring at the sharp end of the pack.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/sebastian-vettel.html">
+        <foaf:firstName>Sebastian</foaf:firstName>
+        <foaf:lastName>Vettel</foaf:lastName>
+        <dc:color>#dc0000</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/image.img.1024.medium.jpg/1584013014200.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/SEBVET01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>5</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/helmet.img.png/1583407957727.png</foaf:logo>
+        <dc:memberOf>Ferrari</dc:memberOf>
+        <dbo:nationality>Germany</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/sebastian-vettel/_jcr_content/countryFlag.img.jpg/1422627083826.jpg</dbr:flag>
+        <dbo:podium>121</dbo:podium>
+        <dbo:matchPoint>33</dbo:matchPoint>
+        <dbo:fullScore>3018</dbo:fullScore>
+        <dbo:birthDate>03/07/1987</dbo:birthDate>
+        <dbo:birthPlace>Heppenheim, Germany</dbo:birthPlace>
+        <dc:description>Vettel’s trademark is pure pace – and of course his one-finger victory salute. In the chase to the chequered flag, he likes to lead from the front and just like his hero, Michael Schumacher, Vettel has settled in as a race-winning leader at Ferrari. But for all his competitive streak, Vettel has a playful side too and has been known to let loose with a spot of Beatles karaoke - and baby can he drive a car. Alongside his four world crowns he can boast more than 50 pole positions and race victories, ranking him – statistically - above many of the biggest names in F1 history. No wonder then that he was hand-picked to return Grand Prix racing’s oldest team to glory. But now he faces an additional thorn in his side – young-gun team mate Charles Leclerc, the first man to outscore him over a season at the Scuderia - and Vettel will need to call on all his speed and experience if he’s to reassert himself over the ‘new boy’ in 2020.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/daniil-kvyat.html">
+        <foaf:firstName>Daniil</foaf:firstName>
+        <foaf:lastName>Kvyat</foaf:lastName>
+        <dc:color>#fff</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/daniil-kvyat/_jcr_content/image.img.1024.medium.jpg/1602266911825.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/DANKVY01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>26</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/daniil-kvyat/_jcr_content/helmet.img.png/1583407956429.png</foaf:logo>
+        <dc:memberOf>AlphaTauri</dc:memberOf>
+        <dbo:nationality>Russian Federation</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/daniil-kvyat/_jcr_content/countryFlag.img.jpg/1422627086003.jpg</dbr:flag>
+        <dbo:podium>3</dbo:podium>
+        <dbo:matchPoint>32</dbo:matchPoint>
+        <dbo:fullScore>202</dbo:fullScore>
+        <dbo:birthDate>26/04/1994</dbo:birthDate>
+        <dbo:birthPlace>Ufa, Russia</dbo:birthPlace>
+        <dc:description>Proving even ‘torpedoes’ can make U-turns, Daniil Kvyat made a surprise F1 return for a third spell with Toro Rosso in 2019. His intrinsic speed and ability to adapt to circuit conditions make him a valuable asset - and he’s a proven podium contender. The rangy Russia arrived in Formula 1 with an impervious poker face and set about his business as a cool and confident racer. But after being dropped by Red Bull, Kvyat plunged into a downward spiral and lost confidence. The re-set button pressed, Kvyat 3.0 came back ready to rumble with the Bulls once more. And he didn’t let them down, scoring 11 times in 2019, including an emotional podium return in Germany.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/kimi-raikkonen.html">
+        <foaf:firstName>Kimi</foaf:firstName>
+        <foaf:lastName>Räikkönen</foaf:lastName>
+        <dc:color>#960000</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/image.img.1024.medium.jpg/1584012751723.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/KIMRAI01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>7</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/helmet.img.png/1602159195168.png</foaf:logo>
+        <dc:memberOf>Alfa Romeo</dc:memberOf>
+        <dbo:nationality>Finland</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/kimi-raikkonen/_jcr_content/countryFlag.img.jpg/1423762801690.jpg</dbr:flag>
+        <dbo:podium>103</dbo:podium>
+        <dbo:matchPoint>4</dbo:matchPoint>
+        <dbo:fullScore>1863</dbo:fullScore>
+        <dbo:birthDate>17/10/1979</dbo:birthDate>
+        <dbo:birthPlace>Espoo, Finland</dbo:birthPlace>
+        <dc:description>Raikkonen has a cult status in F1 like no other driver of his generation, but if you ask him why he just shrugs. Maybe it’s because of the rugged, raw talent that inspired Sauber to give him his debut in 2001 – and re-sign him for 2019. Or the fast and fearless racing that led to memorable McLaren wins. Or the never-say-die attitude that clinched the 2007 world title for Ferrari by a single point. Or maybe it’s because this is the ‘Iceman’ who jumped straight into a Jacuzzi on his yacht after retiring in Monaco and who enjoyed an ice cream when a soggy Malaysian GP was red-flagged but still live. Raikkonen literally does his talking on track. Out of the car, the Finn is famously taciturn. Although those who know him well say privately he is an amusing bon viveur, as well as a devoted family man.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/romain-grosjean.html">
+        <foaf:firstName>Romain</foaf:firstName>
+        <foaf:lastName>Grosjean</foaf:lastName>
+        <dc:color>#960000</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/romain-grosjean/_jcr_content/image.img.1024.medium.jpg/1584012955838.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/ROMGRO01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>8</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/romain-grosjean/_jcr_content/helmet.img.png/1583407955371.png</foaf:logo>
+        <dc:memberOf>Haas</dc:memberOf>
+        <dbo:nationality>France</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/romain-grosjean/_jcr_content/countryFlag.img.jpg/1423762801429.jpg</dbr:flag>
+        <dbo:podium>10</dbo:podium>
+        <dbo:matchPoint>2</dbo:matchPoint>
+        <dbo:fullScore>391</dbo:fullScore>
+        <dbo:birthDate>17/04/1986</dbo:birthDate>
+        <dbo:birthPlace>Geneva, Switzerland</dbo:birthPlace>
+        <dc:description>Quick and with a natural feel for braking and balance, Grosjean has the right ingredients to cook up a storm on track. Tussling and hustling at the front of the pack, the French racer claimed a series of impressive podiums for Renault before moving to spearhead the Haas team. Like the best chefs, the Geneva-born driver occasionally breaks a few eggs.  Renault handed Grosjean his debut halfway through the 2009 season, but a mix of inexperience and enthusiasm saw him move back to the subs bench before making his F1 return in 2012. A one-race ban after triggering a pile-up in Spa seemed to be the final arc of the learning curve for Grosjean.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.formula1.com/en/drivers/kevin-magnussen.html">
+        <foaf:firstName>Kevin</foaf:firstName>
+        <foaf:lastName>Magnussen</foaf:lastName>
+        <dc:color>#960000</dc:color>
+        <foaf:Image>https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/2col/image.png</foaf:Image>
+        <dc:Image>https://www.formula1.com/content/fom-website/en/drivers/kevin-magnussen/_jcr_content/image.img.1024.medium.jpg/1584012829634.jpg</dc:Image>
+        <dbo:idNumber>https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/drivers/number-logos/KEVMAG01.png.transform/2col/image.png</dbo:idNumber>
+        <dbo:number>20</dbo:number>
+        <foaf:logo>https://www.formula1.com/content/fom-website/en/drivers/kevin-magnussen/_jcr_content/helmet.img.png/1582895980270.png</foaf:logo>
+        <dc:memberOf>Haas</dc:memberOf>
+        <dbo:nationality>Denmark</dbo:nationality>
+        <dbr:flag>https://www.formula1.com/content/fom-website/en/drivers/kevin-magnussen/_jcr_content/countryFlag.img.jpg/1426177193193.jpg</dbr:flag>
+        <dbo:podium>1</dbo:podium>
+        <dbo:matchPoint>1</dbo:matchPoint>
+        <dbo:fullScore>158</dbo:fullScore>
+        <dbo:birthDate>05/10/1992</dbo:birthDate>
+        <dbo:birthPlace>Roskilde, Denmark</dbo:birthPlace>
+        <dc:description>He may be a second-generation F1 driver – following his father Jan onto the grid – but Magnussen’s idols are from the ‘golden era’ of Grand Prix racing when the likes of Juan Manuel Fangio and Stirling Moss risked it all for the love of the sport. The Roskilde racer’s own prowess was proven on debut for McLaren, who guided him through the junior ranks, when he cruised into the top-three at the Australian Grand Prix, becoming the first Dane to claim a podium in F1. His meaty manoeuvres and elbows-out approach have earned him a bad-boy reputation on track, something that still leaves him baffled. Out of the car Magnussen is laidback and affable. After all he has his dream job – and he is only here to race.</dc:description>
+    </rdf:Description>
+
+</rdf:RDF>

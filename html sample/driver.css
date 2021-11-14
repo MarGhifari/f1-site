@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+@font-face{
+    font-family: f1-bold;
+    src: url(assets/font/Formula1-Bold.otf);
+}
+
+@font-face{
+    font-family: f1-regular;
+    src: url(assets/font/Formula1-Regular.otf);
+}
+
+@font-face{
+    font-family: f1-wide;
+    src: url(assets/font/Formula1-Wide.otf);
+}
+
+@font-face{
+    font-family: f1-black;
+    src: url(assets/font/Formula1-Black.ttf);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*--------- SCROLL BAR CUSTOM ------ */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+/*---- Navbar -----*/
+header{
+    border-bottom: 5px solid #e10600;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.web-logo img{
+    width: 120px;
+    margin:0 20px;
+}
+
+nav ul{
+    margin-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 25px;
+    margin: 0 5px;
+    font-family: 'f1-regular';
+}
+
+nav ul li a:hover{
+    color: #e10600;
+}
+
+/*---- Section 1 -----*/
+section{
+    margin: 2%;
+}
+
+.main-title{
+    border-style: solid solid none none; 
+    border-width: 11px;
+    border-color: black ;
+    border-radius: 0 35px;
+}
+
+.main-title h1{
+    position: relative;
+    font-family: 'f1-black';
+    font-size: 62px;
+    line-height: 50px;
+    top: -20px; 
+}
+
+.title-text{
+    background-color: #f9f9f9;
+    height: 90px;
+    border-radius: 10px;
+}
+
+.title-text p{
+    padding: 1.5%;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+}
+
+
+/*---- Section 2 -----*/
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.content{
+    padding: 12px;
+}
+
+.card-container{
+    width: 400px;
+    height: 300px;
+    border-style: solid solid none none;
+    border-radius: 0 10px;
+    border-width: 2px;
+    color: black;
+}
+
+.card-container button{
+    background-color: white;
+    border-style: solid solid none none;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color:black;
+    outline: none;
+    cursor: pointer;
+}
+
+.card-container button:hover{
+    border-color: #0600ef;
+}
+
+.first-row{
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: auto auto;
+}
+
+.second-row{
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.third-row-pic{
+    background-image: url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg);
+    /* background-image: url(https://media.istockphoto.com/vectors/tiny-plus-cross-minimal-background-vector-id968285254?b=1&k=6&m=968285254&s=612x612&w=0&h=0BxlnYc9Tw_BOyY9kIRjsTX1kvDOqOfTa_hk6n-N018=); */
+}
